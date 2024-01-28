@@ -1,5 +1,7 @@
 # Make Bilibili Great Again!
 
+提issue来主仓库提～ https://github.com/cledwynl/mbga/issues
+
 ## 功能
 
 目前只支持国际版(com.bilibili.app.in)，兼容性见文末
